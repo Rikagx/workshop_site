@@ -37,7 +37,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-test-and-connect-publish:
+  test-and-connect-publish:
     runs-on: ubuntu-20.04
     steps:
       - name: Check out repository
