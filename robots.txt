@@ -1,0 +1,1 @@
+Sitemap: https://github.com/Rikagx/workshop_site/sitemap.xml
