@@ -61,5 +61,3 @@ jobs:
           url: ${{ secrets.CONNECT_SERVER }}
           api-key: ${{ secrets.CONNECT_API_KEY }}
           access-type: logged_in
-          dir: |
-            .:/test_bug
